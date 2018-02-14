@@ -11,4 +11,4 @@ The original data for this project came from the Wikipedia Detox project in whic
 The data comes in two files. One file consists of unanimous toxicity scores in which all reviewers gave the same score and nonunamious data in which each reviewer gave a different score. Here I am using the unanimous data. Here is a link to the original data: http://dive-into.info/
 
 # Analysis
-I used Jupyter Notebook to perform the analysis. I imported the files, cleaned up the data, performed visualization to find interesting trends, and used Scikit-learn to evaluate the accuracy of a few classifiers to predict the toxicity score of the comments
+I used Python in Jupyter Notebook to perform the analysis. I imported the files, cleaned up the data, performed visualization to find interesting trends, and used Scikit-learn to evaluate the accuracy of a few classifiers to predict the toxicity score of the comments
