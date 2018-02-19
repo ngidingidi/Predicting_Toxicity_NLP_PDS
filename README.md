@@ -15,3 +15,6 @@ The data comes in two files. One file consists of unanimous toxicity scores in w
 
 # Analysis
 I used Python in Jupyter Notebook to perform the analysis. I imported the files, cleaned up the data, performed data visualization to find interesting trends, and used Scikit-learn to evaluate the accuracy of a few classifiers to predict the toxicity score of the comments
+
+# Conclusion
+Applying a Random Forest and Multinomial Naive Bayes Classifier to the dataset gives an accuracy score of around 88% for both. Although the accuracy score if high, the 2 classifiers might be biased towards predicting neutral comments accurately since the data contains more neutral comments than toxic. It would be interesting to apply both classifiers to the non-unamious dataset
