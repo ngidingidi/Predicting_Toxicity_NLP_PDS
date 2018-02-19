@@ -1,5 +1,5 @@
 # Predicting_Toxicity_NLP_PDS
-Natural Language Processing of Toxic Comments - Portland Data Science 
+Natural Language Processing of Toxic Comments - Portland Data Science Workshop
 
 # Goal
 Use Natural Language Processing to predict the toxicity score of comments collected from Wikipedia
